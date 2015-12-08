@@ -1,8 +1,11 @@
-No Pound
-# 1 Pound
-## 2 Pound
-### 3 pound
+New File
 
-* first 
-* second
-* third
+git add -A
+git commit -am "Message"
+git push origin master
+
+Exisiting File
+
+git add -u
+git commit -am "Message"
+git push origin master
