@@ -1,11 +1,11 @@
-New File
+## New File
 
-git add -A
-git commit -am "Message"
-git push origin master
+* git add -A
+* git commit -am "Message"
+* git push origin master
 
-Exisiting File
+## Exisiting File
 
-git add -u
-git commit -am "Message"
-git push origin master
+* git add -u
+* git commit -am "Message"
+* git push origin master
